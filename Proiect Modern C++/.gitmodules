@@ -1,0 +1,9 @@
+[submodule "server/shopping-platform-service"]
+	path = server/shopping-platform-service
+	url = https://github.com/oatpp/oatpp-starter
+[submodule "server/oatpp"]
+	path = server/oatpp
+	url = https://github.com/oatpp/oatpp.git
+[submodule "server/oatpp-swagger"]
+	path = server/oatpp-swagger
+	url = https://github.com/oatpp/oatpp-swagger
